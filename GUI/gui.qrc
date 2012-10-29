@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resources/mainicon.png</file>
+        <file>Resources/open.png</file>
+        <file>Resources/save-as.png</file>
+        <file>Resources/save.png</file>
+        <file>Resources/unselect.png</file>
+        <file>Resources/select.png</file>
+    </qresource>
+</RCC>
